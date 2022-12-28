@@ -1,6 +1,6 @@
-# MotorDriver
+# MotorDriverD1R32
 
-Library for Arduino Motor Driver V1 plugged on a Wemos DR32 board.
+Library for Arduino Motor Driver V1 plugged on a Wemos D1 DR32 board.
 
 2022-12-28: Modified by Martijn Diks to work with the Wemos D1 R32 board. 
 
