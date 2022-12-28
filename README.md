@@ -8,4 +8,4 @@ Though The Old Adafruit Motor Shield has been discontinued, a lot of Chinese sel
 
 ## Original library
 
-https://github.com/CuriosityGym/motordriver by Rupin
+<https://github.com/CuriosityGym/motordriver> by Rupin
